@@ -1,0 +1,1 @@
+# gato-theme-configurator-test
